@@ -6,5 +6,5 @@ Welcome to the repository for building an Event Launch Page using Next.js 13, Ty
 
 
 ## Links & Resources
-
+https://dev-hfest-m4zbc6xeb-debrajrout.vercel.app/ 
 
