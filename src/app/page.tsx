@@ -107,8 +107,7 @@ export default function Home() {
 									src="https://yt3.ggpht.com/a/AATXAJysdAzszI_in2gwk4d7kcYaZKsZcqO_v8dhYw=s900-c-k-c0xffffffff-no-rj-mo"
 									width={85}
 									height={85}
-								/>
-								to <FrameworkRotation currentFramework={currentFramework} />{" "}
+								/>{" "}
 								<br />
 								<span
 									className={cn("transition-colors duration-200", {
